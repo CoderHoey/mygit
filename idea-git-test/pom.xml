@@ -8,6 +8,7 @@
     <artifactId>idea-git-test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+	<!--我修改了pom.xml文件-->
 	<!--我改了这里,通知一下-->
-    
+
 </project>
