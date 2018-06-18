@@ -8,5 +8,6 @@
     <artifactId>idea-git-test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+	<!--在这里做了修改-->
     
 </project>
